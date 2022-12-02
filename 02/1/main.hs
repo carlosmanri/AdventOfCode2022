@@ -32,15 +32,9 @@ resultMove Scissors = 3
 main :: IO ()
 main = do
     file <- readFile "input.txt"
-    let movesLines = lines file
-    let moves = parseGame $ map words movesLines
+    let moves = map parseMoves $ map words $ lines file
     let results = map (\(x, y) -> play x y) moves
-    let myMoves = map snd moves
-    let totalScore = score $ zip results myMoves
-    putStrLn $ show totalScore
-
-parseGame :: [[String]] -> [(Move, Move)]
-parseGame (x:xs) = map parseMoves (x:xs)
+    putStrLn $ show $ score $ zip results $ map snd moves
 
 parseMoves :: [String] -> (Move, Move)
 parseMoves (x:y:_) = (parseMove x, parseMove y)
