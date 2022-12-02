@@ -1,5 +1,3 @@
-from functools import reduce
-
 with open('input.txt') as f:
     lines = [line.rstrip() for line in f]
 
@@ -14,5 +12,4 @@ elves = [[int(kcal) for kcal in elf] for elf in elves]
 
 res = sum(sorted(([sum(elf) for elf in elves]), reverse=True)[:3])
 
-print("Los tres elfos mas calóricos tienen: " + str(res))
-       
+print("Los tres elfos mas calóricos tienen: " + str(res))      
