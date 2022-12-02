@@ -1,5 +1,3 @@
-from functools import reduce
-
 with open('input.txt') as f:
     lines = [line.rstrip() for line in f]
 
@@ -14,5 +12,4 @@ elves = [[int(kcal) for kcal in elf] for elf in elves]
 
 res = max([sum(elf) for elf in elves])
 
-print("El elfo más calórico es el :" + str(res))
-       
+print("El elfo más calórico es el :" + str(res))    
