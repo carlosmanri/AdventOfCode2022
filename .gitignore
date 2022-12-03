@@ -1,3 +1,22 @@
+# golang
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+
+# Goland
+*.iml
+*.ipr
+*.iws
+.idea/
+/build/
+/dist/
+/out/
+
 # Haskell
 *.o
 *.exe

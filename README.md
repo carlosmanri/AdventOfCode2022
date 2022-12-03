@@ -6,7 +6,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 |:---:|:---:|:---:|:---:|
 | 01 | :star: | :star: | ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | 02 | :star: | :star: | ![haskell](https://img.shields.io/badge/-Haskell-884a84?style=flat&logo=haskell) |
-| 03 |  |  |  |
+| 03 | :star: |  | ![haskell](https://img.shields.io/badge/-Golang-white?style=flat&logo=Go) |
 | 04 |  |  |  |
 | 05 |  |  |  |
 | 06 |  |  |  |
