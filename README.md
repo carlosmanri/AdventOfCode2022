@@ -9,7 +9,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 | 03  |  :star:  |  :star:  |           ![golang](https://img.shields.io/badge/-Golang-white?style=flat&logo=Go)           |
 | 04  |  :star:  |  :star:  |       ![fortran](https://img.shields.io/badge/-Fortran-purple?style=flat&logo=Fortran)       |
 | 05  |  :star:  |  :star:  |           ![c++](https://img.shields.io/badge/-C++-005494?style=flat&logo=c%2B%2B)           |
-| 06  |          |          |                                                                                              |
+| 06  |   :x:    |          |  ![assembly](https://img.shields.io/badge/-Assembly%20x86-5e2900?style=flat&logo=pastebin)   |
 | 07  |          |          |                                                                                              |
 | 08  |          |          |                                                                                              |
 | 09  |          |          |                                                                                              |
