@@ -11,7 +11,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 | 05  |    :star:     |  :star:  |           ![c++](https://img.shields.io/badge/-C++-005494?style=flat&logo=c%2B%2B)           |
 | 06  |      :x:      |          |  ![assembly](https://img.shields.io/badge/-Assembly%20x86-5e2900?style=flat&logo=pastebin)   |
 | 07  | :interrobang: |          |       ![bash](https://img.shields.io/badge/-GNU%20Bash-black?style=flat&logo=GNUBash)        |
-| 08  |               |          |                                                                                              |
+| 08  |    :star:     |          |           ![ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=Ruby)            |
 | 09  |               |          |                                                                                              |
 | 10  |               |          |                                                                                              |
 | 11  |               |          |                                                                                              |
